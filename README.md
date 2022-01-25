@@ -16,7 +16,8 @@ Current version only maximizing CPU and GPU load.
 * `conda install numba`
 * `sudo apt install tmux`
 * `tmux`
-* `cd` *path/to/git/repo*
+* `cd`path/to/git/repo'
+* `conda activate`
 * `python3 Stress_Test.py`
 * **CTRL + `B`** then **`D`**
 * `jtop`
