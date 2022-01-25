@@ -25,3 +25,8 @@ Current version only maximizing CPU and GPU load.
 ## To stop
 * `tmux attach`
 * **CTRL + `C`** then **CTRL +`D`** to close the tmux window.
+
+26/01/2022 - Tested current draw.
+            Xavier connected only to ethernet.
+            2.6A @ 12v
+            2.1A @ 15v
